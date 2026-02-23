@@ -17,18 +17,7 @@ Desenvolvedor focado em criação de experiências e ferramentas para jogos e we
 ### 🛠 Minhas Redes e Comunidade
 Clique nos botões abaixo para me encontrar:
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](LINK_DO_SEU_DISCORD_AQUI)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](LINK_DO_SEU_CANAL_AQUI)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4EaFPRRGaA)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PorkynPlay)
 
 ---
-
----
-
-### 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="150em" src="https://github-readme-stats-git-masterpst-anuraghazras-projects.vercel.app/api?username=Luan-Neiva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luan-Neiva&label=Perfil%20Views&color=0e75b6&style=flat" alt="Views" />
-</div>
