@@ -24,10 +24,10 @@ Clique nos botões abaixo para me encontrar:
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_NICK_NOVO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_NICK_NOVO&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-Neiva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Neiva&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_NICK_NOVO&label=Perfil%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Luan-Neiva&label=Perfil%20Views&color=0e75b6&style=flat" alt="Views" />
 </div>
