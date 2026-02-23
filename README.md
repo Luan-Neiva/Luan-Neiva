@@ -22,10 +22,11 @@ Clique nos botões abaixo para me encontrar:
 
 ---
 
+---
+
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-Neiva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Neiva&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats-git-masterpst-anuraghazras-projects.vercel.app/api?username=Luan-Neiva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
 <div align="center">
